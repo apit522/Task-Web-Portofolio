@@ -1,0 +1,64 @@
+body {
+    font-family: 'Times New Roman', Times, serif   , sans-serif;
+    margin: 100;
+    padding: 100;
+  }
+  
+  nav {
+    background-color: #4aa5cc;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  header {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+  }
+  
+  section {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #4aa5cc;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .project {
+    margin-bottom: 30px;
+  }
+  
+  .project img {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
+  .project p {
+    margin-top: 10px;
+  }
+  
